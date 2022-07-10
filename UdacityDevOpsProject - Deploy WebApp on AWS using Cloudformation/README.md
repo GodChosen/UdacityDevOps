@@ -33,4 +33,6 @@ Below are the specifications of the EC2 instances to be used to run the web appl
 
 - **Volume Size**: 10GB
 
+## Output Load Balancer DNS Name
+
 - **Load Balancer DNS Name**: http://udaci-webse-na1zcb91nrnf-1082758719.us-west-2.elb.amazonaws.com/
