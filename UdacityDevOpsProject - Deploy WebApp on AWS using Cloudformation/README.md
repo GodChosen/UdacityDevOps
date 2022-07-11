@@ -35,4 +35,4 @@ Below are the specifications of the EC2 instances to be used to run the web appl
 
 ## Output Load Balancer DNS Name
 
-- **Load Balancer DNS Name**: http://udaci-webse-na1zcb91nrnf-1082758719.us-west-2.elb.amazonaws.com/
+- **Load Balancer DNS Name**: http://udaci-webse-39suz29xc3au-680245169.us-west-2.elb.amazonaws.com/
